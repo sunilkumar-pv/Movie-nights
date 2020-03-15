@@ -1,0 +1,81 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Movie 1",
+      "genre": "horror",
+      "image": "/assets/img/1.jpg",
+      "releaseYear": "1960"
+    },
+    {
+      "id": 2,
+      "name": "The Movie 2",
+      "genre": "suspense",
+      "image": "/assets/img/2.jpg",
+      "releaseYear": "1970"
+    },
+    {
+      "id": 3,
+      "name": "The Movie 3",
+      "genre": "thrillar",
+      "image": "/assets/img/3.jpg",
+      "releaseYear": "1980"
+    },
+    {
+      "id": 4,
+      "name": "The Movie 4",
+      "genre": "action",
+      "image": "/assets/img/4.jpg",
+      "releaseYear": "1990"
+    },
+    {
+      "id": 5,
+      "name": "The Movie 5",
+      "genre": "comedey",
+      "image": "/assets/img/5.jpg",
+      "releaseYear": "2000"
+    },
+    {
+      "id": 6,
+      "name": "The Movie 6",
+      "genre": "messages",
+      "image": "/assets/img/6.jpg",
+      "releaseYear": "2001"
+    },
+    {
+      "id": 7,
+      "name": "The Movie 7",
+      "genre": "awarness",
+      "image": "/assets/img/7.jpg",
+      "releaseYear": "2002"
+    },
+    {
+      "id": 8,
+      "name": "The Movie 8",
+      "genre": "not available",
+      "image": "/assets/img/8.jpg",
+      "releaseYear": "2003"
+    },
+    {
+      "id": 9,
+      "name": "The Movie 9",
+      "genre": "suspense",
+      "image": "/assets/img/9.jpg",
+      "releaseYear": "2004"
+    },
+    {
+      "id": 10,
+      "name": "The Movie 10",
+      "genre": "comedey",
+      "image": "/assets/img/10.jpg",
+      "releaseYear": "2005"
+    },
+    {
+      "id": 11,
+      "name": "The Movie 11",
+      "genre": "action",
+      "image": "/assets/img/11.jpg",
+      "releaseYear": "2006"
+    }
+  ]
+}
